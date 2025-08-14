@@ -6,10 +6,15 @@ A simple RESTful application for managing cities, airports, flights, and connect
 
 🏙️ City Endpoints
 Method	Endpoint	Description
+
 POST	/cities/	Create a new city
+
 GET	/cities/	Get all cities
+
 DELETE	/cities/	Delete all cities
+
 GET	/cities/<id>	Get a city by ID
+
 DELETE	/cities/<id>	Delete a city by ID
 
 🛫 Airport Endpoints
