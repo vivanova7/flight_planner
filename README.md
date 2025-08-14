@@ -1,10 +1,9 @@
-A simple flight planning application with RESTful API endpoints for managing cities, airports, flights, and connecting flights.
-Features
+✈️ Flight Planning API
 
-•	Manage cities, airports, flights, and connecting flights.
+A simple RESTful application for managing cities, airports, flights, and connecting flights. Supports persistent storage using files or SQL databases.
 
-•	Supports data persistence in files or an SQL database.
-
-•	RESTful API with endpoints for CRUD operations.
-
-
+📌 Features
+Manage cities, airports, flights, and connecting flights
+RESTful API with full CRUD operations
+Search and filter flights with various criteria
+Supports pagination, sorting, and data persistence
