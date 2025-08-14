@@ -4,7 +4,6 @@ A simple application for managing cities, airports, flights, and connecting flig
 
 📌 Features
 Manage cities, airports, flights, and connecting flights
-
 RESTful API with full CRUD operations
 
 Search and filter flights with various criteria
